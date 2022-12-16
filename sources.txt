@@ -3,27 +3,34 @@ Sources of assets used in the project:
 "POLYDesert"
 Runemark Studio
 https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
+File name: "Runemark Studio"
 
 "Cartoon Car - Vehicle Pack"
 zelalkat
 https://assetstore.unity.com/packages/3d/vehicles/cartoon-car-vehicle-pack-180962
+File name: "Zelalkat"
 
 "Voxel Animals (#23)"
 GBAndrewGB
 https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-23-130937
+File name: "Block animals"
 
 "Desert Night - Seamless Loop"
 Olan
 https://assetstore.unity.com/packages/audio/music/world/desert-night-seamless-loop-23821
+File name: "DesertNight"
 
 "Ancient Egyptian Desert Music Free"
 Tyler Cunningham
 https://assetstore.unity.com/packages/audio/music/ancient-egyptian-desert-music-free-pack-131425
+File name: "Egyptian Desert Music Free Pack"
 
 "Western Audio & Music"
 John Leonard French
 https://assetstore.unity.com/packages/audio/sound-fx/western-audio-music-67788
+File name: "Western Demo Audio Assets"
 
 "Vector Desert Landscape Illustration Free Vector"
 Vectorbox Studio
 https://www.vecteezy.com/vector-art/224422-vector-desert-landscape-illustration
+File name: "Desert.png"
