@@ -3,32 +3,38 @@ Sources of assets used in the project:
 "POLYDesert"
 Runemark Studio
 https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
-File name: "Runemark Studio"
+Folder name: "Runemark Studio"
+Asset/s used (File name): "Cactus1.prefab", "Cactus2.prefab", "Cactus3.prefab"
 
 "Cartoon Car - Vehicle Pack"
 zelalkat
 https://assetstore.unity.com/packages/3d/vehicles/cartoon-car-vehicle-pack-180962
-File name: "Zelalkat"
+Folder name: "Zelalkat"
+Asset/s used (File name): "basic car brown.prefab", "monster truck.prefab"
 
 "Voxel Animals (#23)"
 GBAndrewGB
 https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-23-130937
-File name: "Block animals"
+Folder name: "Block animals"
+Asset/s used (File name): "Kangaroo.prefab"
 
 "Desert Night - Seamless Loop"
 Olan
 https://assetstore.unity.com/packages/audio/music/world/desert-night-seamless-loop-23821
-File name: "DesertNight"
+Folder name: "DesertNight"
+Asset/s used (File name): "desert_night.ogg"
 
 "Ancient Egyptian Desert Music Free"
 Tyler Cunningham
 https://assetstore.unity.com/packages/audio/music/ancient-egyptian-desert-music-free-pack-131425
-File name: "Egyptian Desert Music Free Pack"
+Folder name: "Egyptian Desert Music Free Pack"
+Asset/s used (File name): "Journey on the Nile (No Ambience) loop 1.ogg"
 
 "Western Audio & Music"
 John Leonard French
 https://assetstore.unity.com/packages/audio/sound-fx/western-audio-music-67788
-File name: "Western Demo Audio Assets"
+Folder name: "Western Demo Audio Assets"
+Asset/s used (File name): "Sand New Jump.wav"
 
 "Vector Desert Landscape Illustration Free Vector"
 Vectorbox Studio
