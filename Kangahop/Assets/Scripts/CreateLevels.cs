@@ -9,13 +9,18 @@ public class CreateLevels : MonoBehaviour
     int zPosition = 2;
 
     // Start is called before the first frame update
-    void Start() { 
+    void Start()
+    {
         CreateLanes();
     }
 
     // Update is called once per frame
-    void Update() { }
+    void Update() 
+    { 
+        
+    }
 
+    // Create more lanes when game starts and when couple of steps is taken
     public void CreateLanes()
     {
         int i;

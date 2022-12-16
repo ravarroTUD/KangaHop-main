@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class ObjectPhysics : MonoBehaviour
 {
-    public float minSpeed, maxSpeed;
+    public float minSpeed,
+        maxSpeed;
     private Rigidbody Rb;
     private Vector3 newVelocity;
 
     // Start is called before the first frame update
     void Start()
     {
+        // Set speed of moving objects, E.g. The cars and the wooden planks
         Rb = GetComponent<Rigidbody>();
         newVelocity = new Vector3(Random.Range(minSpeed, maxSpeed), 0, 0);
     }

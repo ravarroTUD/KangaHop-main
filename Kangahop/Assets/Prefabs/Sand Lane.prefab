@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1812075894563147029}
   - component: {fileID: 8494178961184593740}
   - component: {fileID: 3391063499950981935}
+  - component: {fileID: 8056132153893783193}
   m_Layer: 0
   m_Name: Sand Lane
   m_TagString: Untagged
@@ -114,6 +115,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numOfLanes: 1
+--- !u!114 &8056132153893783193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4957562653419948420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f001eef6bb4ccb54fad0de15bebcf728, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 7912869425892736106, guid: d11e7ad47e5b8874baf7a38401d102b7, type: 3}
+  - {fileID: 2750333211447145042, guid: ac82310a61cfc90499f09b69805d82a6, type: 3}
+  minSpawnTime: 0
+  maxSpawnTime: 0
+  spawnMovingObjects: 0
 --- !u!1 &8059415324309419970
 GameObject:
   m_ObjectHideFlags: 0
@@ -126,7 +145,7 @@ GameObject:
   - component: {fileID: 7566661551830349586}
   m_Layer: 0
   m_Name: Step Trigger
-  m_TagString: Untagged
+  m_TagString: Step Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

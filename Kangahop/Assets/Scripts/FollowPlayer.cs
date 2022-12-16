@@ -10,12 +10,18 @@ public class FollowPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Add offset to camera position
         offset = transform.position - player.position;
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector3(player.position.x + offset.x, offset.y, player.position.z + offset.z);
+        // Follow the player's camera when position is changed
+        transform.position = new Vector3(
+            player.position.x + offset.x,
+            offset.y,
+            player.position.z + offset.z
+        );
     }
 }
