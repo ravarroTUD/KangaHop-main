@@ -8,7 +8,7 @@ public class LevelManager : MonoBehaviour
 {
     public static LevelManager levelManager;
     private int steps;
-    public int stepsForMoreLanes = 12;
+    public int stepsForMoreLanes = 11;
     private int currentSteps;
     public Text stepScore;
     public Text gameOverText;

@@ -35,11 +35,11 @@ public class SpawnObjects : MonoBehaviour
     // Spawn the randomised cactus'
     void SpawnStaticObjects()
     {
-        for (int i = 0; i < 3; i++)
+        for (int i = 0; i < 4; i++)
         {
             Instantiate(
                 objects[Random.Range(0, objects.Length)],
-                new Vector3(Random.Range(-5, 5), 0, transform.position.z),
+                new Vector3(Random.Range(-6, 8), 0, transform.position.z),
                 Quaternion.identity
             );
         }
