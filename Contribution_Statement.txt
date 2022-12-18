@@ -1,0 +1,36 @@
+Contribution Statement:
+
+B00144987 Russel Navarro:
+For this project I have done the following tasks:
+1. Paid for an asset for the player model as it was hard to find a free Kangaroo Model in the Asset Store.
+2. Coded the 'PlayerController' script to use, user input control for the arrow keys to control the player. It also has
+   attributes for when you step on the death trigger it will trigger the game over message if the tag of the component
+   is found.
+3. Coded the 'LevelManager' script that controls the behaviour of the world. (For example when you hop more lanes it 
+   will create more lanes), It also displays the game over message using the legacy Text Mesh and reload the scene 
+   again after the game over message is displayed using the Scene Manager.
+4. Coded the 'CreateLevels' script that controls the world that if you launch the game, it will randomise and create
+   the few lanes that is in the prefab.
+5. Coded the 'NumberedLanes' so that it indexes which lane wheter if it is a road or a water lane or just the sand lane
+   and this is used for the component to number them in the lanes prefabs.
+6. Coded the 'SpawnObjects' script that controls both static and moving objects in the world. It will randomise which
+   object will spawn every time the game is launched. 
+7. Made a wooden plank prefab using the cube and changing the scaling to it. I also made a custom material that matches the
+   colour of a wooden plank using the RGB color space.
+8. Made some other colour materials for the world using the RGB color space.
+
+Signed: Russel Navarro, B00144987. 
+
+
+
+B00144376 Chris Ogungbe:
+1.Designed the map added the Catus"s Sandlanes Try to make the Map look as much as a Dessert Terrain added the lighting.
+2.Coded the 'FollowPlayer' Script Which Allow the camera to Moves With the Kangaroo  Every Hop 
+3.Added Sound to the Project Old Western Music. 
+4.Designed the main Menu for KangaHop.
+5.Added the Sound to the main Menu.
+6.Added the Materials to the project Deserrt Sand ,Water  Road, and Wood
+
+Signed: Chris Ogungbe B00144376
+ 
+
